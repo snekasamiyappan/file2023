@@ -1,0 +1,12 @@
+.register-link,
+login-link {
+  color: blue;
+  cursor: pointer;
+}
+#regBtn,
+#loginLink {
+  display: none;
+}
+.loginlink {
+  display: none;
+}

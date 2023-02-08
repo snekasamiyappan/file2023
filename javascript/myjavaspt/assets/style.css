@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+#titleText {
+  color: chartreuse;
+}
+
+.text-text {
+  font-size: 40px;
+}
